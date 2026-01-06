@@ -1,0 +1,110 @@
+# Format. URL | target_subdir | folder_name
+# Lines starting with # are comments
+# Fields separated by | (pipe)
+
+# --- Frappe Framework ---
+https://github.com/frappe/crm.git|frappe|crm
+https://github.com/frappe/erpnext.git|erpnext|erpnext
+https://github.com/frappe/hrms.git|frappe|hrms
+https://github.com/frappe/lending.git|frappe|lending
+https://github.com/frappe/frappe.git|frappe|frappe
+https://github.com/frappe/helpdesk.git|frappe|helpdesk
+https://github.com/frappe/press.git|frappe|press
+https://github.com/frappe/drive.git|frappe|drive
+https://github.com/frappe/lms.git|frappe|lms
+https://github.com/frappe/frappe_docker.git|frappe|frappe_docker
+https://github.com/frappe/frappe-ui.git|frappe|frappe-ui
+https://github.com/frappe/builder.git|frappe|builder
+https://github.com/frappe/mail.git|frappe|mail
+https://github.com/frappe/slides.git|frappe|slides
+https://github.com/frappe/insights.git|frappe|insights
+https://github.com/frappe/agent.git|frappe|agent
+https://github.com/frappe/otto.git|frappe|otto
+https://github.com/frappe/fc-scripts.git|frappe|fc-scripts
+https://github.com/frappe/newsletter.git|frappe|newsletter
+https://github.com/frappe/books.git|frappe|books
+https://github.com/frappe/studio.git|frappe|studio
+https://github.com/frappe/print_designer.git|frappe|print_designer
+https://github.com/frappe/mcp.git|frappe|mcp
+https://github.com/frappe/bench.git|frappe|bench
+https://github.com/frappe/gantt.git|frappe|gantt
+https://github.com/frappe/wiki.git|frappe|wiki
+https://github.com/frappe/gameplan.git|frappe|gameplan
+https://github.com/frappe/intellisense.git|frappe|intellisense
+https://github.com/frappe/library_management.git|frappe|library_management
+https://github.com/frappe/schools.git|erpnext|schools
+https://github.com/rtCamp/Frappe-Manager.git|frappe|Frappe-Manager
+https://github.com/rtCamp/frappe-deployer.git|frappe|Frappe-Deployer
+https://github.com/ankush/frappe_codespace.git|frappe|frappe_codespace
+
+# NocoBase
+https://github.com/nocobase/nocobase.git|nocobase|nocobase
+
+# ImageJ - Comsystanj
+https://github.com/comsystan/comsystanj.git|imagej|comsystanj
+
+# Reciter - Pubmed / Scopus tool
+https://github.com/wcmc-its/ReCiter-Publication-Manager.git|reciter|ReCiter-Publication-Manager
+https://github.com/wcmc-its/ReCiter.git|reciter|ReCiter
+https://github.com/wcmc-its/ReCiter-Dynamodb-Model.git|reciter|ReCiter-Dynamodb-Model
+https://github.com/wcmc-its/VIVO.git|reciter|VIVO
+https://github.com/wcmc-its/ReCiter-Scopus-Model.git|reciter|ReCiter-Scopus-Model
+https://github.com/wcmc-its/ReCiter-PubMed-Model.git|reciter|ReCiter-PubMed-Model
+https://github.com/wcmc-its/ReCiter-Identity-Model.git|reciter|ReCiter-Identity-Model
+https://github.com/wcmc-its/ReCiter-Article-Model.git|reciter|ReCiter-Article-Model
+https://github.com/wcmc-its/ReCiter---Scoring.git|reciter|ReCiter---Scoring
+https://github.com/wcmc-its/ReCiterDB.git|reciter|ReCiterDB
+https://github.com/wcmc-its/ReCiter-PubMed-Retrieval-Tool.git|reciter|ReCiter-PubMed-Retrieval-Tool
+https://github.com/wcmc-its/ReCiter-Scopus-Retrieval-Tool.git|reciter|ReCiter-Scopus-Retrieval-Tool
+https://github.com/wcmc-its/ReCiter-Connect.git|reciter|ReCiter-Connect
+https://github.com/wcmc-its/ReCiter-CDK.git|reciter|ReCiter-CDK
+https://github.com/wcmc-its/vivo-docker.git|reciter|vivo-docker
+https://github.com/wcmc-its/ReCiter-PubNotifier.git|reciter|ReCiter-PubNotifier
+https://github.com/wcmc-its/ReCiter-MachineLearning-Analysis.git|reciter|ReCiter-MachineLearning-Analysis
+https://github.com/wcmc-its/easycwid.git|reciter|easycwid
+https://github.com/wcmc-its/wcm-styles.git|reciter|wcm-styles
+https://github.com/wcmc-its/JenaConnectifier.git|reciter|JenaConnectifier
+https://github.com/wcmc-its/vivo-fuseki.git|reciter|vivo-fuseki
+https://github.com/wcmc-its/alert_teams.git|reciter|alert_teams
+https://github.com/wcmc-its/splunk_bigfix_api_dumper.git|reciter|splunk_bigfix_api_dumper
+https://github.com/wcmc-its/Vitro.git|reciter|Vitro
+https://github.com/wcmc-its/ReCiter-CloudFormation.git|reciter|ReCiter-CloudFormation
+https://github.com/wcmc-its/cert-manager_expiry_checker.git|reciter|cert-manager_expiry_checker
+https://github.com/wcmc-its/WCM_beyondtrust_password_fetcher.git|reciter|WCM_beyondtrust_password_fetcher
+https://github.com/wcmc-its/citation-impact.git|reciter|citation-impact
+
+# Kobo Toolbox
+https://github.com/kobotoolbox/kpi.git|kobotoolbox|kpi
+https://github.com/kobotoolbox/docs.git|kobotoolbox|docs
+https://github.com/kobotoolbox/kobo-docker.git|kobotoolbox|kobo-docker
+https://github.com/kobotoolbox/kobo-install.git|kobotoolbox|kobo-install
+https://github.com/kobotoolbox/enketo-express-extra-widgets.git|kobotoolbox|enketo-express-extra-widgets
+https://github.com/kobotoolbox/kobo-transfer.git|kobotoolbox|kobo-transfer
+https://github.com/kobotoolbox/kobo-helm-chart.git|kobotoolbox|kobo-helm-chart
+
+
+# Lapdev software development
+https://github.com/lapce/lapdev.git|lapce|lapdev
+https://github.com/lapce/lapce.git|lapce|lapce
+https://github.com/lapce/floem.git|lapce|floem
+
+# GitLab 
+https://gitlab.com/gitlab-org/gitlab.git|gitlab|gitlab
+
+# Bookstack
+https://github.com/BookStackApp/BookStack.git|bookstack|BookStack
+
+# Pangolin - Reverse Proxy Server
+https://github.com/fosrl/pangolin.git|pangolin|pangolin
+
+# Dokploy
+https://github.com/Dokploy/dokploy.git|dokploy|dokploy
+
+# MERN Stacks 
+https://github.com/amamenko/GlowLabs.git|mern-stack|GlowLabs
+https://github.com/foyzulkarim/mernboilerplate-antd.git|mern-stack|mernboilerplate-antd
+
+# Research downloads
+https://prod-dcd-datasets-cache-zipfiles.s3.eu-west-1.amazonaws.com/xx8nyg6pjj-1.zip|swfd
+https://prod-dcd-datasets-cache-zipfiles.s3.eu-west-1.amazonaws.com/6gk8s3d8kw-1.zip|fbc
+https://prod-dcd-datasets-cache-zipfiles.s3.eu-west-1.amazonaws.com/bd4kw2dj8r-2.zip|dbc-rgb
